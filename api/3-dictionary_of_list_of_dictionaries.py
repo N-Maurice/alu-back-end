@@ -41,4 +41,4 @@ if __name__ == "__main__":
 
     # Write to JSON file
     with open("todo_all_employees.json", "w") as f:
-        json.dump(all_tasks, f)
+        json.dump(all_tasks, f) 

@@ -53,4 +53,4 @@ if __name__ == "__main__":
                 'USERNAME': username,
                 'TASK_COMPLETED_STATUS': task.get('completed'),
                 'TASK_TITLE': task.get('title')
-            })
+            }) 

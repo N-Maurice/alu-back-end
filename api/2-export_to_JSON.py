@@ -42,4 +42,4 @@ if __name__ == "__main__":
 
     # Write to JSON file
     with open(f"{employee_id}.json", "w") as json_file:
-        json.dump(result, json_file)
+        json.dump(result, json_file) 

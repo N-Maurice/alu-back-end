@@ -1,1 +1,1 @@
-api
+These files are projects related to managing and exporting task data for employees. They involve collecting task records, including usernames, task titles, and completion statuses, and formatting this data into a JSON structure. The JSON output organizes tasks under each user ID, providing a detailed list of tasks with their respective completion states.
